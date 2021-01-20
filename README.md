@@ -32,4 +32,4 @@ gabriel.munoz@concordia.ca
 
 ----
 
-** Note: if you don't use RStudio or run by copying the script directly to R remember to set up the working directory appropiately. 
+** Note: if you don't use RStudio or run by copying the script directly to R remember to set up the working directory appropiately.**
