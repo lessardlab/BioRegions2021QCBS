@@ -11,7 +11,7 @@ https://lessardlab.github.io/BioRegions2021QCBS/BioRegions21.html
 
 ## Do this if you want to follow the tutorial in your own machine 
 
-1. Download or fork the repository 
+1. Download or fork this repository 
 
 2. Download the data from GBIF (see data folder)
 
