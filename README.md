@@ -15,7 +15,7 @@ https://lessardlab.github.io/BioRegions2021QCBS/BioRegions21.html
 
 2. Download the data from GBIF (see data folder)
 
-3. Create a new project and open the `script.Rmd` R markdown file. 
+3. Create a new RStudio project (optional) and open the `script.Rmd` R markdown file. 
 
 4. Make sure you have installed all necessary packages (detailed in the script)
 
@@ -29,3 +29,7 @@ gabriel.munoz@concordia.ca
 
 ### Winter 2021. 
 ### Montreal, QC. 
+
+----
+
+** Note: if you don't use RStudio or run by copying the script directly to R remember to set up the working directory appropiately. 
