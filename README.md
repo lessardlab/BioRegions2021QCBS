@@ -1,9 +1,7 @@
 # Defining Biogeographic Regions, a practical tutorial 
 ----
+# QCBS intensive course on biodiversity. 
 
-## Tutorial for the QCBS intensive course on biodiversity. 
-## Winter 2021. 
-## Montreal, QC. 
 
 
 
@@ -18,3 +16,5 @@ https://lessardlab.github.io/BioRegions2021QCBS/BioRegions21.html
 ### contact: Gabriel Muñoz
 gabriel.munoz@concordia.ca
 
+### Winter 2021. 
+### Montreal, QC. 
