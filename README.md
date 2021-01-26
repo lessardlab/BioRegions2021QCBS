@@ -13,7 +13,7 @@ https://lessardlab.github.io/BioRegions2021QCBS/BioRegions21.html
 
 1. Download or fork this repository 
 
-2. Download the data from GBIF (see data folder)
+2. Download the dataset for the case-study section from this [link](https://liveconcordia-my.sharepoint.com/:x:/g/personal/gabriel_munoz_concordia_ca/EVgZRlt__T1MvhaAWhypFtoBT2BxEG5F_rSYeqCARSARCA?e=iClekP&CID=1d7c6b23-353c-8559-4fdc-fa70d8b42d6e) and place it in the data folder 
 
 3. Create a new RStudio project (optional) and open the `script.Rmd` R markdown file. 
 
@@ -33,4 +33,4 @@ gabriel.munoz@concordia.ca
 ----
 
 
-*Note if you don't use RStudio or run by copying the script directly to R remember to set up the working directory appropiately*
+*Note: Remember to set up the working directory appropiately if you don't use RStudio, or run the codes by copying the script directly to R*
