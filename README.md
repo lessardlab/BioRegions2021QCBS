@@ -13,7 +13,7 @@ https://lessardlab.github.io/BioRegions2021QCBS/BioRegions21.html
 
 1. Download or fork this repository 
 
-2. Download the dataset for the case-study section from this [link](https://liveconcordia-my.sharepoint.com/:x:/g/personal/gabriel_munoz_concordia_ca/EVgZRlt__T1MvhaAWhypFtoBT2BxEG5F_rSYeqCARSARCA?e=iClekP&CID=1d7c6b23-353c-8559-4fdc-fa70d8b42d6e) and place it in the data folder 
+2. Download the dataset for the case-study section from this [link](https://drive.google.com/file/d/1iSC4dJbdrwjQac0Z_06K__RdqT9htOyx/view?usp=sharing) and place it in the data folder 
 
 3. Create a new RStudio project (optional) and open the `script.Rmd` R markdown file. 
 
